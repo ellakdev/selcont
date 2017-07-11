@@ -1,7 +1,13 @@
-SeLCont
-======
+SeLCont - Synchronized eLearning Content Toolkit
 
-Synchronized eLearning Content Toolkit
+Is an easy-to-use toolkit with minimal post-processing effort and no special installation requirements from lecture rooms. The final output is dynamically adjusted to any user browser (laptop, desktop, tablet, smartphone) running Windows, Android,  iOS-iPad, iOS-iPhone.
+
+Benefits to the presenter:
+
+    Use of standard equipment in most lecture halls (web camera, sound system, projector)
+    Instructor laptop with pre-installed SeLCont time-stamp recorder (simple application)
+    Minimal video post-processing (optional)
+    On-line storage: Simple web-page using pre-formatted form, with links to slides and video service e.g. YouTube
 
 <a href="http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont" target="_blank">http://webvm.netmode.ntua.gr/courses/?lectures=introduction-to-selcont</a>
 
